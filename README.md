@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola soy Misswtson una frontEnd developer
+Hi there! I'm Misswtson a frontEnd Web developer & a CoffeeHolic Gal!! 
 
 
 ## 🌐 Socials:
