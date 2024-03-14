@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Misswtson a frontEnd Web developer & a CoffeeHolic Gal!! 
+Hi there! I'm Emm a FrontEnd Web developer & a CoffeeHolic Gal!! 
 
 
 ## 🌐 Socials:
