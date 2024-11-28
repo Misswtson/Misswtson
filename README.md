@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Emm a FrontEnd Web developer & a CoffeeHolic Gal!! 
+Hi there! I'm Emm a FrontEnd Web developer currently working on my React skills to land my first Job & a CoffeeHolic Gal!! 
 
 
 ## 🌐 Socials:
